@@ -1,0 +1,67 @@
+    
+body {
+        background-color:rgb(243, 243, 196) ;
+        font-family: comic sans ms;
+          background-size: cover;
+
+      }
+      
+      h1 {
+          text-align: center;
+      }
+      
+      p {
+          font-size: 20px;
+          margin-top: 15px;
+      }
+      
+      h2 {
+          margin-left: 10%;
+          padding-left: 60px;
+      }
+      h3 {
+          margin-left: 10%;
+          padding-left: 60px;
+          font-size: 25px;
+      }
+      li {
+          font-size: 20px;
+          padding-left: 40px;
+          padding-top: 10px;
+      }   
+      img {
+        padding-left: 60px;
+        padding-top: 20px ;
+        padding-bottom: 20px;
+    }
+    header, nav {
+        background-color: #282828;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+    }
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 30px;
+    
+    }
+    table,th,td{
+        border: 1px solid grey;
+        text-align:center;
+      } 
+      
+      th,td{
+         padding:10px;
+      }
+      caption{
+        font-size:20px;
+        color:blue;
+      }
+      a {
+        text-decoration: none   ;
+      }
+   iframe {
+        text-align: right     ;
+    
+   }
